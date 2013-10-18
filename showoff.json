@@ -1,12 +1,10 @@
 {
   "name": "dotRB 2013 Gemnasium Workshop",
-    "description": "Gemnasium Workshop @dotRB 2013 Ruby conference",
-    "author": "Fabien Catteau",
-    "sections": [
-    {
-      "section":"intro",
-      "section":"interlude",
-      "section":"outro"
-    }
+  "description": "Gemnasium Workshop @dotRB 2013 Ruby conference",
+  "author": "Fabien Catteau",
+  "sections": [
+    {"section":"intro"},
+    {"section":"interlude"},
+    {"section":"outro"}
   ]
 }
