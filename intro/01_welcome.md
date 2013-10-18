@@ -34,8 +34,8 @@
 !SLIDE center
 ![docker_logo](docker_logo.png)
 
-!SLIDE
-![docker_logo](gemnasium.png)
+!SLIDE center
+![gemnasium_logo](gemnasium.png)
 
 !SLIDE
 # 2 Hands-on sessions

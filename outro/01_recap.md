@@ -1,8 +1,8 @@
 !SLIDE
 # Recap
 
-!SLIDE
-# Gemnasium
+!SLIDE center
+![gemnasium_logo](gemnasium.png)
 
 !SLIDE center
 ![gemnasium_fcat_dotrb2013](gemnasium_fcat_dotrb2013.png)
@@ -31,6 +31,9 @@
 # Update the Rails app
 * normal things with bundler
 * unusual stuff with docker
+
+!SLIDE center
+![docker_logo](docker_logo.png)
 
 !SLIDE small
 # Crazy ideas with docker?
