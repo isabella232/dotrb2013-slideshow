@@ -58,8 +58,8 @@
 * 10.00 - break
 * 10.30 - part 2
 * 11.00 - break
-* 11.50 - closure
-* 12.00 - end of the workshop
+* 12.00 - conclusion
+* 12.15 - end of the workshop
 
 !SLIDE
 # Feel confortable.
