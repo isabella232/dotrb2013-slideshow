@@ -1,13 +1,28 @@
 !SLIDE
 # Recap
 
-!SLIDE bullets incremental
+!SLIDE
 # Gemnasium
-* An **overview** of the dependencies
-* **Alerts** for direct dependencies
-* Alert for **nested** dependencies
-* **Security** alerts
-* Email notification
+
+!SLIDE center
+![gemnasium_fcat_dotrb2013](gemnasium_fcat_dotrb2013.png)
+
+!SLIDE center
+![gemnasium_fcat_dotrb2013_dependencies](gemnasium_fcat_dotrb2013_dependencies.png)
+
+!SLIDE center
+![gemnasium_alert](gemnasium_alert.png)
+
+!SLIDE center
+![gemnasium_alert_email](gemnasium_alert_email.png)
+
+!SLIDE bullets incremental small
+# Manage your dependencies
+* overview
+* alerts
+* security alerts
+* nested dependencies
+* email notification
 
 !SLIDE
 # Your suggestions?
