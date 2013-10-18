@@ -1,6 +1,9 @@
 !SLIDE subsection
 # Docker
 
+!SLIDE center
+![docker_logo](docker_logo.png)
+
 !SLIDE
 # in 5 minutes
 
@@ -84,6 +87,18 @@
 # docker repo
 * to store images
 * inspired by GitHub
+
+!SLIDE center
+![docker_index_search](docker_index_search.png)
+
+!SLIDE center
+![docker_index](docker_index.png)
+
+!SLIDE
+# Don't worry!
+
+!SLIDE center
+![docker_homepage](docker_homepage.png)
 
 !SLIDE
 # EOF

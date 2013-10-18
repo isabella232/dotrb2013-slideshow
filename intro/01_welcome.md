@@ -28,14 +28,14 @@
 # Along the way...
 .notes so this is the topic of this workshop, and along the way...
 
-!SLIDE
-# [Yet another Rails app](https://github.com/gemnasium/dotrb2013)
+!SLIDE center
+![rails_logo](rails.jpeg)
+
+!SLIDE center
+![docker_logo](docker_logo.png)
 
 !SLIDE
-# [Docker](http://docker.io)
-
-!SLIDE
-# [Gemnasium](http://gemnasium.com)
+![docker_logo](gemnasium.png)
 
 !SLIDE
 # 2 Hands-on sessions

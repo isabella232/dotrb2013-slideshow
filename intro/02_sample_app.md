@@ -28,9 +28,21 @@
 # [gemnasium/dotrb2013](https://github.com/gemnasium/dotrb2013)
 ## Public GitHub repo
 
+!SLIDE center
+![github_dotrb2013](github_dotrb2013.png)
+
+!SLIDE center
+![github_dotrb2013](github_dotrb2013_2.png)
+
 !SLIDE small
 # [gemnasium/dotrb2013-docker](https://github.com/gemnasium/dotrb2013-docker)
 ## Install the app with docker
+
+!SLIDE center
+![github_dotrb2013](github_dotrb2013-docker.png)
+
+!SLIDE center
+![github_dotrb2013](github_dotrb2013-docker_2.png)
 
 !SLIDE
 # Warning!
